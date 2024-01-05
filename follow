@@ -1,7 +1,12 @@
-* in folder
+* in folder                                   
   -index.html
   -server.js
   -Dockerfile
+
+*git command
+  -git add .
+  -git commit -m "  "
+  -git push
 
 *in vs code
   -npm init
